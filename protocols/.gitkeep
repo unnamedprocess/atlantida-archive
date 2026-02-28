@@ -1,8 +1,8 @@
 /*
-   ARCHIVE_PROTOCOL : UNWRITTEN
+ARCHIVE_PROTOCOL := PENDING
 
-   Control was abandoned.
-   Trust is still learning its language.
+STATUS := DORMANT
+ASSERT := Presence is sufficient.
 
-   Awaiting definition.
+Do not erase.
 */
